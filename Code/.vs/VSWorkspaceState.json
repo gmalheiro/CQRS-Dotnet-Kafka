@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CQRS-ES",
+    "\\CQRS-ES\\CQRS.Core",
+    "\\CQRS-ES\\CQRS.Core\\Domain",
+    "\\SM-Post"
+  ],
+  "SelectedNode": "\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "PreviewInSolutionExplorer": false
+}
