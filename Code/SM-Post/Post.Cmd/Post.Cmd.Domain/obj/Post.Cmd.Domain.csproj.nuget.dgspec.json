@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj": {}
+  },
+  "projects": {
+    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "projectName": "CQRS.Core",
+        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "packagesPath": "/home/sean/.nuget/packages/",
+        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sean/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj",
+        "projectName": "Post.Cmd.Domain",
+        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj",
+        "packagesPath": "/home/sean/.nuget/packages/",
+        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sean/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              },
+              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj": {
+                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj",
+        "projectName": "Post.Common",
+        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj",
+        "packagesPath": "/home/sean/.nuget/packages/",
+        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sean/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
