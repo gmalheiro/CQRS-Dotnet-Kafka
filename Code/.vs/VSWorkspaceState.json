@@ -4,8 +4,12 @@
     "\\CQRS-ES",
     "\\CQRS-ES\\CQRS.Core",
     "\\CQRS-ES\\CQRS.Core\\Domain",
-    "\\SM-Post"
+    "\\CQRS-ES\\CQRS.Core\\Events",
+    "\\SM-Post",
+    "\\SM-Post\\Post.Cmd",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Domain",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Aggregates"
   ],
-  "SelectedNode": "\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "SelectedNode": "\\CQRS-ES\\CQRS.Core\\Events",
   "PreviewInSolutionExplorer": false
 }

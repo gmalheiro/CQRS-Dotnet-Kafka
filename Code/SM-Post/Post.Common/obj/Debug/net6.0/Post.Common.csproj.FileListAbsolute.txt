@@ -13,3 +13,19 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.sourcelink.json
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll

@@ -1,18 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "PZkYW46Jv+prupAUbP+NBhEV+f0O04PoxzDZY+zvC23ZfMjpVboREt8jNSbIjPRcrc6U18Ktq66tGL9ZDsyK9w==",
-  "success": false,
+  "dgSpecHash": "zBoLhmoEcEb+JFsP/ECBiFXSGMio+Z6kqCEHCXKbj8bAnzWlgN7LWbsd5viLwC62kyMkhM1YovRPtSP8tIpuEQ==",
+  "success": true,
   "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
 }

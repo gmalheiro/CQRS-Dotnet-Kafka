@@ -15,7 +15,6 @@ F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
-F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.sourcelink.json
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
@@ -23,3 +22,4 @@ F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
 F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll
+F:\A Projects\Back\CQRS_Kafka\Code\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.sourcelink.json
