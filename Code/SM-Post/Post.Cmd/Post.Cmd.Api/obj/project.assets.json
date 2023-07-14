@@ -437,11 +437,24 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MongoDB.Driver": "2.14.1"
+        },
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      },
       "Post.Cmd.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": "1.0.0",
+          "CQRS.Core": "1.0.0",
           "Post.Common": "1.0.0"
         },
         "compile": {
@@ -455,8 +468,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "CQRS.Core": "1.0.0",
           "Confluent.Kafka": "1.8.2",
-          "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": "1.0.0",
           "Microsoft.Extensions.Options": "6.0.0",
           "MongoDB.Driver": "2.14.1",
           "Post.Cmd.Domain": "1.0.0"
@@ -472,7 +485,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": "1.0.0"
+          "CQRS.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Post.Common.dll": {}
@@ -1004,6 +1017,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+    },
     "Post.Cmd.Domain/1.0.0": {
       "type": "project",
       "path": "../Post.Cmd.Domain/Post.Cmd.Domain.csproj",
@@ -1022,7 +1040,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+      "CQRS.Core >= 1.0.0",
       "Post.Cmd.Domain >= 1.0.0",
       "Post.Cmd.Infrastructure >= 1.0.0",
       "Post.Common >= 1.0.0",
@@ -1050,7 +1068,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1098,6 +1115,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1106,19 +1141,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

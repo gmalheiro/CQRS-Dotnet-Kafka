@@ -17,3 +17,23 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/Debug/net6.0/Post.Cmd.Infrastructure.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/Debug/net6.0/ref/Post.Cmd.Infrastructure.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/Debug/net6.0/Post.Cmd.Infrastructure.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.deps.json
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Domain.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Common.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Common.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.AssemblyReference.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.AssemblyInfoInputs.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.AssemblyInfo.cs
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CoreCompileInputs.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.sourcelink.json
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CopyComplete
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\refint\Post.Cmd.Infrastructure.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\ref\Post.Cmd.Infrastructure.dll

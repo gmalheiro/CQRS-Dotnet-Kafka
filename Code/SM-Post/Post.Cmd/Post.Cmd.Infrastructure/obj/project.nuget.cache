@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "lMEg5UUvyXhF0RqmsXfRwQ5IhHSCsQ75CKBgGz/ZfSBzfZZ5DO77vt+lTjsuXbTgFO49pBgk5VP2wfMCOA+Q5A==",
-  "success": false,
+  "dgSpecHash": "XFVRmpSSpMEmNt8Z/VzEE8JDFVc3eh0tO276HVY6Qn7AED+u17mcahev4d+uXH1lRURSdPYytl3G03VzE+2Mzw==",
+  "success": true,
   "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
@@ -17,17 +17,10 @@
     "C:\\Users\\gabri\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\gabri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PiJdGYtIr84vv9KPC6AX8kkRBUi3qD53rsqzP0hHdRX0qNrWy57dFUPNUKntgS+AzZCGUhj877/EdTDVVESr8A==",
+  "dgSpecHash": "c9ISpmKyH0jKQT/cfoUdjhp6d4dPlzQ0VrDp+7lOYqzsGhRa7o1LlVIBCw1bLZy1A5s2UsquxeDZJfS5bce0IA==",
   "success": true,
   "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

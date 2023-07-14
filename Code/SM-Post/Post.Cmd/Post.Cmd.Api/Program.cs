@@ -1,7 +1,9 @@
+using Post.Cmd.Infrastructure.Config;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.Configure<MongoDbConfig>(builder.Configuration.GetSection(nameof(MongoDbConfig)));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

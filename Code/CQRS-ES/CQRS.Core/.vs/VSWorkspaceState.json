@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Domain"
+    "\\Domain",
+    "\\Events"
   ],
-  "SelectedNode": "\\Domain\\AggregateRoot.cs",
+  "SelectedNode": "\\Domain\\IEventStoreRepository.cs",
   "PreviewInSolutionExplorer": false
 }

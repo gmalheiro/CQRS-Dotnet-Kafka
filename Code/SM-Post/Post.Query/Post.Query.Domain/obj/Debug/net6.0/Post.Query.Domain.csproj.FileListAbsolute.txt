@@ -10,3 +10,16 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/ref/Post.Query.Domain.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.pdb
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net6.0/Post.Query.Domain.csproj.AssemblyReference.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.deps.json
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.AssemblyReference.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.AssemblyInfoInputs.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.AssemblyInfo.cs
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.sourcelink.json
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\refint\Post.Query.Domain.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.pdb
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net6.0\ref\Post.Query.Domain.dll
