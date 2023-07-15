@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Post.Query.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9bd9b82742a6afa67ccfab1a3c73d7896746550")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a5fb7d7038d92f123a1c4eee597fed8d8be808")]
 [assembly: System.Reflection.AssemblyProductAttribute("Post.Query.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Post.Query.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
