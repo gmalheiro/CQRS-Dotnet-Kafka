@@ -79,14 +79,14 @@
         }
       }
     },
-    "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
+    "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectUniqueName": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
         "projectName": "Post.Common",
-        "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\obj\\",
+        "outputPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -248,8 +248,8 @@
               "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj"
               },
               "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
                 "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"

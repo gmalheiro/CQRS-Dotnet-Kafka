@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+ZVedEVj7H/x1pfoi9Ih/sH3/db2QSYGkQRmD42wml6Yj7y3kwSrDXzl121+TvRhozfBjGYVmtQw/AQP34grg==",
+  "dgSpecHash": "Vklk9akYUbrbtisx28dU5Og0POIJ7sso4qaC5ejJqSDFzkLy2Acgefk8ozQn++PGNYsUUtI5G9/19kMnySor9g==",
   "success": true,
-  "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
+  "projectFilePath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",

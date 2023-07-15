@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7FeIr8rqDfaYWE2uMVyLhwLRiz0Wwdr1SSE0417xYG8vFEBO0mpAO5g2vKVBcVHw30hpm9khSYRsj8p3ezNp0w==",
+  "dgSpecHash": "CR3iCtJIFe6CyUQlKGr1kFT5f8rSU461kNBIN60Nx8Ca+2EAcpeBpgoLgThzOSsWUWEDxHgioE4Py9C3I2dndg==",
   "success": true,
   "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
   "expectedPackageFiles": [
