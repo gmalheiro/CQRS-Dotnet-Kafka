@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFVRmpSSpMEmNt8Z/VzEE8JDFVc3eh0tO276HVY6Qn7AED+u17mcahev4d+uXH1lRURSdPYytl3G03VzE+2Mzw==",
+  "dgSpecHash": "rxOFbgipBa4BTL6HT0yRKt5HSLzgvdOQIYyKBU9Ftiibsh5/PwOWdaEpvVGi61PnYoi7bQp+GfcU2XdfA7R1gQ==",
   "success": true,
-  "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+  "projectFilePath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

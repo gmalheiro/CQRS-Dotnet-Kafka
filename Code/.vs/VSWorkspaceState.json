@@ -1,11 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CQRS-ES\\CQRS.Core",
+    "\\CQRS-ES\\CQRS.Core\\Producers",
     "\\SM-Post",
-    "\\SM-Post\\Post.Cmd",
-    "\\SM-Post\\Post.Cmd\\Post.Cmd.Api",
-    "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Commands"
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Producers",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Stores",
+    "\\SM-Post\\Post.Query",
+    "\\SM-Post\\Post.Query\\Post.Query.Domain",
+    "\\SM-Post\\Post.Query\\Post.Query.Domain\\Entities",
+    "\\SM-Post\\Post.Query\\Post.Query.Domain\\Repositories"
   ],
-  "SelectedNode": "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Program.cs",
+  "SelectedNode": "\\SM-Post\\Post.Query\\Post.Query.Domain\\Repositories\\ICommentRepository.cs",
   "PreviewInSolutionExplorer": false
 }
