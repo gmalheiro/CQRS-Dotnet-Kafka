@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edctPA/CPEoWdgPt6gQRJSNVPURej+A4Sxgzx06NRzEMbddB48V7gB54WoWLKbTSvm24Yz4vKyBRPMmbrGDRyQ==",
+  "dgSpecHash": "c9ISpmKyH0jKQT/cfoUdjhp6d4dPlzQ0VrDp+7lOYqzsGhRa7o1LlVIBCw1bLZy1A5s2UsquxeDZJfS5bce0IA==",
   "success": true,
-  "projectFilePath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+  "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",

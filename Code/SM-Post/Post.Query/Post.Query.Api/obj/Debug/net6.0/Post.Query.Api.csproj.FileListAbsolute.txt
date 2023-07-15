@@ -215,3 +215,6 @@ F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\n
 F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.pdb
 F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.genruntimeconfig.cache
 F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\ref\Post.Query.Api.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Castle.Core.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll

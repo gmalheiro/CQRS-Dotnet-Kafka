@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OxTZf0+jsHZL366a43XHG9Xt1fgOsEaoysBTJ6oZHmz60lmZAvGAQdYSMvAwEE7SXnXVDPOJY+1wz/nYJVXAzg==",
+  "dgSpecHash": "7FeIr8rqDfaYWE2uMVyLhwLRiz0Wwdr1SSE0417xYG8vFEBO0mpAO5g2vKVBcVHw30hpm9khSYRsj8p3ezNp0w==",
   "success": true,
-  "projectFilePath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "projectFilePath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Post.Common
-build_property.ProjectDir = f:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\
+build_property.ProjectDir = F:\A Projects\Back\CQRS_Kafka\Code\SM-Post\Post.Common\

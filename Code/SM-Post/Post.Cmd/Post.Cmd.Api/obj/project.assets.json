@@ -1053,11 +1053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+      "projectUniqueName": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
       "projectName": "Post.Cmd.Api",
-      "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+      "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
+      "outputPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1074,17 +1074,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-              "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
             },
             "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
               "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
             },
-            "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
-              "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
+            "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+              "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
             },
-            "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
-              "projectPath": "f:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj"
+            "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "F:\\A Projects\\Back\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj"
             }
           }
         }
