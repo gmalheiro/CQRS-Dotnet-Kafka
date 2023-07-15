@@ -6,6 +6,6 @@
     "\\SM-Post\\Post.Cmd\\Post.Cmd.Api",
     "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Commands"
   ],
-  "SelectedNode": "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Commands\\ICommandHandler.cs",
+  "SelectedNode": "\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
